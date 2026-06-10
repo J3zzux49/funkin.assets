@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="resume.png">
+	<!-- created manually (by snezhok174) -->
+	<SubTexture name="resume idle0000" x="17" y="0" width="452" height="112"/>
+	<SubTexture name="resume selected0000" x="0" y="143" width="485" height="122"/>
+</TextureAtlas>

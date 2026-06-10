@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="disableBotplay.png">
+	<!-- created manually (by snezhok174) -->
+	<SubTexture name="disableBotplay idle0000" x="20" y="351" width="461" height="287"/>
+	<SubTexture name="disableBotplay selected0000" x="0" y="0" width="515" height="313"/>
+</TextureAtlas>

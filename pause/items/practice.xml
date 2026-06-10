@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="practice.png">
+	<!-- created manually (by snezhok174) -->
+	<SubTexture name="practice idle0000" x="16" y="0" width="464" height="107"/>
+	<SubTexture name="practice selected0000" x="0" y="126" width="514" height="129"/>
+</TextureAtlas>

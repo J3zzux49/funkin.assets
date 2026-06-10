@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="restart.png">
+	<!-- created manually (by snezhok174) -->
+	<SubTexture name="restart idle0000" x="9" y="0" width="491" height="117"/>
+	<SubTexture name="restart selected0000" x="0" y="151" width="527" height="130"/>
+</TextureAtlas>

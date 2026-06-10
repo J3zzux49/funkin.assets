@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="changeInstrumental.png">
+	<!-- created manually (by snezhok174) -->
+	<SubTexture name="changeInstrumental idle0000" x="24" y="0" width="289" height="110"/>
+	<SubTexture name="changeInstrumental selected0000" x="0" y="145" width="343" height="121"/>
+</TextureAtlas>
